@@ -1,0 +1,87 @@
+---
+title: "Presentations & Research"
+---
+
+# Selected Presentations
+
+## Public Talks
+
+#### Wilson Center
+*20 March 2023; Washington, D.C.*
+
+- Title: Unleashing Women Entrepreneurship in MENA
+- Available online [here](https://www.wilsoncenter.org/event/report-launch-unleashing-women-entrepreneurship-mena).
+
+#### American University of Beirut
+*8 March 2023; Beirut, Lebanon (remote)*
+
+- Title: Access to the Digital World: Pathway to Gender Equality in the Arab World
+- Available online [here](https://www.youtube.com/watch?v=ovSZRRi6PMk).
+
+#### World Bank
+*9 February 2023; Washington, D.C.*
+
+- Title: How Can Facts Help Us Bring Women into the Workforce in MENA? Learning from a decade of Arab Barometer data
+
+#### Middle East Institute
+*20 October 2022; Washington, D.C.*
+
+- Title: Attitudes and Trends Towards Gender in the Middle East
+- Available online [here](https://www.mei.edu/events/presenting-findings-2022-arab-barometer-report-attitudes-and-trends-toward-gender).
+
+#### United Nations
+*14 September 2021; New York City, New York (remote)*
+
+- Title: Women and COVID-19 in MENA
+
+## Academic Conferences
+
+#### European Political Science Association, 2023
+*22-24 June 2023; Glasgow, Scotland*
+
+- Chair & Discussant
+    - Symposium: New Developments in Text Analysis
+- Presenter: Natural Language Processing for Short Survey Responses
+    - Symposium: Improving Survey Research Methods
+
+#### World Association for Public Opinion Research, 2022
+*10-13 November 2022; Dubai, United Arab Emirates*
+
+- Chair, Discussant, Presenter: Natural Language Processing for Short Survey Responses
+    - Panel: Big Data, Sentiment Analysis, and Machine Learning
+
+
+# Selected Writings
+
+## Arab Barometer
+
+- "Female Political Participation Inspires Confidence In Female Political Leadership in MENA"
+    - Published 6 March 2023
+    - [Link to the full blog.](https://www.arabbarometer.org/2023/03/mena-citizens-change-their-views-on-gender-political-roles-as-they-age-2/)
+    - [Link to the press release.](https://www.arabbarometer.org/media-news/female-political-participation-inspires-confidence-female-political-leadership-in-mena/)
+- "Citizens Lukewarm on Leaders' Cold War"
+    - Published 15 September 2023
+    - [Link to the full blog.](https://www.arabbarometer.org/2022/09/citizens-lukewarm-on-leaders-cold-war/)
+- Arab Barometer Country Report: Lebanon, Wave VII
+    - Published September 2022
+    - [Link to full report.](https://www.arabbarometer.org/wp-content/uploads/ABVII_Lebanon_Country_Report-ENG.pdf)
+- Arab Barometer Topic Report: Gender Attitudes and Trends in MENA, Wave VII
+    - Published 26 September 2022
+    - [Link to full report.](https://www.arabbarometer.org/wp-content/uploads/ABVII_Gender_Report-ENG.pdf)
+- "Bearing the Brunt: COVID’s Impact on MENA Women at Home and at Work"
+    - Published 23 July 2021
+    - [Link to the full blog.](https://www.arabbarometer.org/2021/07/bearing-the-brunt-covids-impact-on-mena-women-at-home-and-at-work/)
+
+
+
+## Academic Papers
+Papers available upon request.
+
+- "Non-Consecutive Executives: Changing Preferences in a Chaning World"
+    - *Under review*
+- "Natural Language Processing for Short Survey Responses"
+    - *Working paper*
+- "How Women Become Politicians"
+    - *Working paper*
+- "Competition and Cohesion Among Elites in Authoritarian Legislatures"
+    - *Working paper*

@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+I am currently the [Director of Technology and Innovation](https://www.arabbarometer.org/experts/maryclare-rochephd/) at [Arab Barometer](https://www.arabbarometer.org/). I manage the data team and oversee all technical aspects of survey creation, deployment, quality assuarance, data processing, and data visualization. I evalute and recommend adoption of new technologies for the organization, and take responsibility for the quality and accuracy of both our internal and published data.
+
+In addition to managing all technical aspects at Arab Barometer, I research the applications of Natural Language Processing (NLP) techniques on the Arabic language. I have presented my technical research at conferences in the United States, Europe, and the Middle East.
+
+My substantive research focuses on the views of women in the Middle East and North Africa (MENA), as well as MENA international relations. My work has been presented at think tanks, the State Department, and before the United Nations.
+
+Academically, I recieved my Ph.D. in political science from the University of Rochester in 2020. My fields of study were formal theory, statistical methodology, and comparative politics. My disseration focused on the dynamics of legislatures in non-democratic regimes.
+
+

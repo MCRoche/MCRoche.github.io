@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "MaryClare Roche, Ph.D."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - cv.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
