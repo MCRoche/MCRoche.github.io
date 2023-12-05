@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 
-Hello! I'm Dr. MaryClare Roche, Director of Technology and Innovation at [Arab Barometer](https://www.arabbarometer.org/). Welcome to my website.
+I'm Dr. MaryClare Roche, Director of Technology and Innovation at [Arab Barometer](https://www.arabbarometer.org/). Welcome to my website.
 
 I received my Ph.D. in political science from the University of Rochester, concentrating on formal theory, statistical methodology, and comparative politics.
 
@@ -10,7 +10,7 @@ In my current position with Arab Barometer, I oversee all technical aspects of s
 
 For more information about my background and current position, please see the [About](about.qmd) page.
 
-My research interests tend to be dichotomized between substantive and technical. My current substantive interest is in changing views of the roles of women in North Africa and the Middle East, while my technical research focuses on Natural Language Processing, particularly with respect to Arabic.
+My research interests tend to be dichotomized between substantive and technical. My current substantive interest is the changing views of the roles of women in North Africa and the Middle East, while my technical research focuses on Natural Language Processing, particularly with respect to Arabic.
 
 For more information on my research, past and present, as well as past and upcoming talks and/or conference attendence, please see the [Presentations & Research](research.qmd) page.
 
