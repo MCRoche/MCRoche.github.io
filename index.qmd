@@ -6,7 +6,7 @@ I'm Dr. MaryClare Roche, Director of Technology and Innovation at [Arab Baromete
 
 I received my Ph.D. in political science from the University of Rochester, concentrating on formal theory, statistical methodology, and comparative politics.
 
-In my current position with Arab Barometer, I oversee all technical aspects of survey creation, deployment, quality assuarance, data processing, and data visualization.
+In my current position with Arab Barometer, I oversee all technical aspects of survey creation, deployment, quality assurance, data processing, and data visualization.
 
 For more information about my background and current position, please see the [About](about.qmd) page.
 
